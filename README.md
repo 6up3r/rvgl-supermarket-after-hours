@@ -94,6 +94,7 @@ Every release published on Re-Volt World is here, the latest first. Each release
 
 | Version | Released | What changed |
 | --- | --- | --- |
+| [2.1.1](https://github.com/6up3r/rvgl-supermarket-after-hours/releases/tag/v2.1.1) | 13 November 2026 | the mop bucket by the fruit stand fixed |
 | [2.1](https://github.com/6up3r/rvgl-supermarket-after-hours/releases/tag/v2.1) | 24 October 2026 | lighter on every PC, and a reverse version |
 | [2.0.1](https://github.com/6up3r/rvgl-supermarket-after-hours/releases/tag/v2.0.1) | 12 October 2026 | lighter with Instances off, solid objects keep their collision |
 | [2.0](https://github.com/6up3r/rvgl-supermarket-after-hours/releases/tag/v2.0) | 8 October 2026 | the whole shop restocked, a faster and cleaner AI |

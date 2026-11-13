@@ -1,6 +1,6 @@
 name: Track report
 description: A problem with SuperMarket After Hours, as RVGL draws it, plays it or drives it.
-title: "[2.1] Short description of the problem"
+title: "[2.1.1] Short description of the problem"
 labels: ["track report"]
 body:
   - type: markdown
@@ -12,7 +12,7 @@ body:
     attributes:
       label: "Track version"
       description: The version in the readme of levels/sm_afterhours, or the release you downloaded.
-      placeholder: "2.1"
+      placeholder: "2.1.1"
     validations:
       required: true
   - type: input
